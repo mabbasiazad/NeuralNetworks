@@ -1,2 +1,2 @@
 # NeuralNetworks
-[Modeling Spiking Neurons and Networks] (./A1)
+[Modeling Spiking Neurons and Networks](./A1)
