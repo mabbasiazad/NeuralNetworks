@@ -11,12 +11,12 @@
    - Investigating backprop
       - Implementing `Weight Decay` (backprop modification to tackle vanishing gradient problem)
       - `Classifier` Networks
-   - `Hopfield` Network (a model of associative memory)
+   - `Hopfield` Network (a model for associative memory)
 
 4. [Autoencoders and RNNs](./A4)
-   - A deep `autoencoder` neural network is trained and tested on `MNIST` dataset.
-   - Backprop Through Time (`BPTT`) learning algorithm is implemented for a simple recurrent neural network (`RNN`).
-     Then, an instance of the RNN class is trained and tested on sequence of letters in a corpus of text (a simplified version of On the Origin of Species by Charles Darwin). 
+   - Deep `Autoencoder` Neural Network (trained and tested on `MNIST` dataset)
+   - Backprop Through Time (`BPTT`) (a learning algorithm for recurrent neural networks (`RNN`s)).
+   - Training and Testing of RNN Class on sequence of letters in a corpus of text (a simplified version of On the Origin of Species by Charles Darwin). 
    
    
 
