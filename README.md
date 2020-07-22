@@ -1,16 +1,17 @@
 # NeuralNetworks
 1. [Modeling Spiking Neurons and Networks](./A1)
    - `LIF` Neuron Model
-   - `Spiking` Network Nodel
+   - `Spiking` Network Model
    - Experiments with Spiking Networks
 
 2. [Implementing Backpropagation](./A2)
-   - backpropagation algorithm for training feedforward neural networks for supervised learning is coded from scratch.
+   - Implementing `Backpropagation` (an algorithm for training feedforward neural networks in supervised learning)
 
 3. [Investigating Backprop, and Hopﬁeld Networks](./A3)
-   - Backprop is modified to tackle `vanishing gradient` problem by implementing `weight decay`.
-   - Backprop is investigated for `classifier` networks.
-   - `Hopfield` Network as a model of associative memory is implemented.
+   - Investigating backprop
+      - Implementing `Weight Decay` (backprop modification to tackle vanishing gradient problem)
+      - `Classifier` Networks
+   - `Hopfield` Network (a model of associative memory)
 
 4. [Autoencoders and RNNs](./A4)
    - A deep `autoencoder` neural network is trained and tested on `MNIST` dataset.
