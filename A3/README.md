@@ -6,6 +6,7 @@
   
 - `Hopfield` Network (a model for associative memory)
 
+Note: The problem description is in [a3_questions.pdf](./a3_questions.pdf) and the code is in [YOU_a3.ipynb](./YOU_a3.ipynb).
    
    
 
